@@ -22,3 +22,8 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# vite
+vite.config.js
+vite.config.d.ts
+*.tsbuildinfo
